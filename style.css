@@ -1,0 +1,8 @@
+div#buttons {
+    display: flex;
+    flex-flow: column nowrap;
+}
+
+button {
+    border: 1px solid blue;
+}
